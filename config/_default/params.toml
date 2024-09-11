@@ -2,7 +2,7 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
-favicon = "./favicon.svg"
+favicon = "https://irmabaitussalam.github.io/images/favicon.svg"
 
 [footer]
 since = 2014
