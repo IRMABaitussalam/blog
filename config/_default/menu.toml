@@ -1,0 +1,78 @@
+# Configure main menu and social menu
+#[[main]]
+#identifier = "home"
+#name = "Home"
+#url = "/"
+#[main.params]
+#icon = "home"
+#newtab = true
+
+# Facebook
+[[social]]
+identifier = "facebook"
+name = "Facebook"
+url = "https://facebook.com/people/IRMA-SMAN-22-GARUT/100083337945272"
+weight = 1
+
+[social.params]
+icon = "brand-facebook"
+
+# Instagram
+[[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://instagram.com/irmasman22garut_official"
+weight = 2
+
+[social.params]
+icon = "brand-instagram"
+
+# TikTok
+[[social]]
+identifier = "tiktok"
+name = "TikTok"
+url = "https://tiktok.com/@irmasman22garut_official"
+weight = 3
+
+[social.params]
+icon = "brand-tiktok"
+
+# X
+[[social]]
+identifier = "x"
+name = "X"
+url = "https://x.com/irmasman22garut"
+weight = 4
+
+[social.params]
+icon = "brand-x"
+
+# YouTube
+[[social]]
+identifier = "youtube"
+name = "YouTube"
+url = "https://youtube.com/@IRMABaitussalam"
+weight = 5
+
+[social.params]
+icon = "brand-youtube"
+
+# Email
+[[social]]
+identifier = "email"
+name = "Email"
+url = "mailto:irmabaitussalam22garut@gmail.com"
+weight = 6
+
+[social.params]
+icon = "mail"
+
+# Website
+[[social]]
+identifier = "website"
+name = "Website"
+url = "https://irmabaitussalam.github.io"
+weight = 7
+
+[social.params]
+icon = "link"

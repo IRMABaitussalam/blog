@@ -1,0 +1,11 @@
+article:
+    readingTime:
+        one: "{{ .Count }} menit membaca"
+        other: "{{ .Count }} menit membaca"
+
+footer:
+    builtWith:
+        other: Built with {{ .Generator }}
+
+    designedBy:
+        other: Theme {{ .Theme }} designed by {{ .DesignedBy }}
