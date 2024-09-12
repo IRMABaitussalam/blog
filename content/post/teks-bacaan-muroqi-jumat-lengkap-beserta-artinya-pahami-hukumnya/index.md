@@ -114,3 +114,7 @@ Bacaan muroqi Jum'at ini memiliki 4 kandungan pokok yang baik, yaitu:
 4. Mendoakan orang-orang Muslimin dan Muslimat.
 
 Oleh karenanya, tradisi pembacaan tarqiyyah oleh muroqi Jum'at menjadi hal yang baik untuk dilestarikan. Meski ada pandangan ulama yang berbeda mengenai hukumnya, tetapi mereka bersepakat bahwa perbuatan tersebut bukanlah perbuatan tercela ataupun sesat. Sehingga, tidak ada dasar hukum yang kuat untuk melarang amalan pembacaan tarqiyyah.
+
+</br>
+
+_**Penulis:** Rangga Fajar Oktariansyah_
