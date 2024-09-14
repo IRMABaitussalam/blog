@@ -66,7 +66,7 @@ Syekh Ahmad Ad-Dardir dalam kitab _As-Syarhus Shaghir_ menjelaskan bahwa membaca
 
 </div>
 
-**Artinya:** _"Tidak haram bagi perempuan haid membaca Al-Qur'an kecuali setelah terhenti darahnya dan belum mandi. Baik saat haid ia junub atau tidak. Karenanya ia tidak boleh membaca Al-Qur'an setelah darahnya berhenti secara mutlak sampai ia mandi janabat. Ini adalah pendapat mu'tamad atau yang dipedomani dalam mazhab Maliki."_ (Ahmad Ad-Dardir, _As-Syarhus Shaghir_, dalam _Bulghatus Salik li Aqrabil Masalik_, Juz I, hal. 149).
+**Artinya:** _"Tidak haram bagi perempuan haid membaca Al-Qur'an kecuali setelah terhenti darahnya dan belum mandi. Baik saat haid ia junub atau tidak. Karenanya ia tidak boleh membaca Al-Qur'an setelah darahnya berhenti secara mutlak sampai ia mandi janabat. Ini adalah pendapat mu'tamad atau yang dipedomani dalam madzhab Maliki."_ (Ahmad Ad-Dardir, _As-Syarhus Shaghir_, dalam _Bulghatus Salik li Aqrabil Masalik_, Juz I, hal. 149).
 
 Selain itu, walaupun ada pandangan yang membolehkan perempuan haid membaca Al-Qur'an, penting untuk tetap berhati-hati. Jika memungkinkan, lebih baik menunda membaca Al-Qur'an hingga masa haid selesai. Namun, dalam situasi yang mendesak, seperti ketika menghadapi ujian tahfidz yang tidak bisa ditunda, diperbolehkan membaca Al-Qur'an, tetapi dibatasi sesuai dengan kebutuhan ujian. Ini dilakukan demi menjaga kesakralan Al-Qur'an dan menghormati adab dalam berinteraksi dengan kitab suci.
 
