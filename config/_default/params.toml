@@ -32,7 +32,7 @@ default = "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
 [[widgets.homepage]]
-title = "Beranda"
+title = "Cari"
 type = "search"
 
 [[widgets.homepage]]
@@ -40,20 +40,21 @@ title = "Arsip"
 type = "archives"
 
 [widgets.homepage.params]
-limit = 5
+limit = 15
 
 [[widgets.homepage]]
 title = "Kategori"
 type = "categories"
 
 [widgets.homepage.params]
-limit = 10
+limit = 20
 
 [[widgets.homepage]]
+title = "Tag"
 type = "tag-cloud"
 
 [widgets.homepage.params]
-limit = 10
+limit = 20
 
 [[widgets.page]]
 type = "toc"
