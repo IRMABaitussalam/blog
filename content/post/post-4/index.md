@@ -36,7 +36,7 @@ Akhirnya, mereka semua sepakat untuk memakan kue setelah yakin bahwa sang kepona
 
 Dengan lahap mereka santap kue nan lezat itu tanpa sisa. Mereka puas setelah perutnya kenyang.
 
-Usai menyantap kue, keponakan Nashrudin menuju meja Nashrudin. Tiba-tiba tempat tinta milik Nashrudin yang ada di atas meja pamannya ia pecahkan. Tak lama kemudian, Nashrudin kembali dan masuk ke ruang belajar.
+Usai menyantap kue, sang keponakan menuju meja Nashrudin. Tiba-tiba tempat tinta milik Nashrudin yang ada di atas meja tersebut ia pecahkan. Tak lama kemudian, Nashrudin kembali dan masuk ke ruang belajar.
 
 "Siapa yang pecahkan ini?!!" teriaknya dengan suara keras begitu melihat tempat tintanya pecah. Dengan spontan, murid-murid Nashrudin menunjuk ke arah sang keponakan, sebagaimana janji yang diucapkan sang keponakan sebelumnya.
 
