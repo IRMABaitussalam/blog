@@ -50,6 +50,43 @@ jobs:
           hugo \
             --gc --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Replace title
+        run: |
+          # Pages
+          sed -i 's@<title>Arsip</title>@<title>Arsip - Blog IRMA Baitussalam</title>@g' ./public/arsip/index.html
+          sed -i 's@content="Arsip"@content="Arsip - Blog IRMA Baitussalam"@g' ./public/arsip/index.html
+          sed -i 's@<title>Cari</title>@<title>Cari - Blog IRMA Baitussalam</title>@g' ./public/cari/index.html
+          sed -i 's@content="Cari"@content="Cari - Blog IRMABaitussalam"@g' ./public/cari/index.html
+          sed -i 's@<title>Tag</title>@<title>Tag - Blog IRMA Baitussalam</title>@g' ./public/tags/index.html
+          sed -i 's@content="Tag"@content="Tag - Blog IRMABaitussalam"@g' ./public/tags/index.html                              sed -i 's@<title>Tag</title>@<title>Tag - Blog IRMA Baitussalam</title>@g' ./public/tags/page/*/index.html
+          sed -i 's@content="Tag"@content="Tag - Blog IRMABaitussalam"@g' ./public/tags/page/*/index.html
+          sed -i 's@<title>Kategori</title>@<title>Kategori - Blog IRMA Baitussalam</title>@g' ./public/categories/index.html
+          sed -i 's@content="Kategori"@content="Kategori - Blog IRMABaitussalam"@g' ./public/categories/index.html
+          sed -i 's@<title>Halaman</title>@<title>Halaman - Blog IRMA Baitussalam</title>@g' ./public/page/index.html
+          sed -i 's@content="Halaman"@content="Halaman - Blog IRMABaitussalam"@g' ./public/page/index.html
+          sed -i 's@<title>Postingan</title>@<title>Postingan - Blog IRMA Baitussalam</title>@g' ./public/post/index.html
+          sed -i 's@content="Postingan"@content="Postingan - Blog IRMABaitussalam"@g' ./public/post/index.html
+
+          # Category
+          folder=(`ls ./public/kategori`)
+          for d in "${folder[@]}"; do
+            if [[ -d "./public/kategori/$d" && "$d" != "page" ]]; then
+              sed -i 's@Category:@Kategori:@g' ./public/kategori/$d/index.html
+              sed -i 's@Blog - IRMA@Blog IRMA@g' ./public/kategori/$d/index.html
+              fi
+          done
+
+          # Tags
+          folder=(`ls ./public/tags`)
+          for d in "${folder[@]}"; do                                  if [[ -d "./public/tags/$d" && "$d" != "page" ]]; then
+              sed -i 's@Tags:@Tag:@g' ./public/tags/$d/index.html
+              sed -i 's@Blog - IRMA@Blog IRMA@g' ./public/tags/$d/index.html
+            fi
+          done
+      - name: Moved folder names
+        run: |
+          cp -rf ./public/categories/* ./public/kategori
+          rm -rf ./public/categories/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa #v3.0.1
         with:
