@@ -4,4 +4,5 @@ description: "Baca kisah-kisah lucu dan menarik, ayo hibur dirimu!"
 slug: "kisah-lucu"
 image: "cover.jpeg"
 date: 2024-02-25T08:45:33+07:00
+weight: 2
 ---
