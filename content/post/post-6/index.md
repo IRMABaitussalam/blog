@@ -20,7 +20,7 @@ mendalam dan saling berkaitan satu sama lain.
 
 Berikut adalah penjelasan mengenai arti logo IRMA yang terdiri dari beberapa elemen utama:
 
-![Arti Logo IRMA](./01.jpeg)
+![Arti Logo IRMA](01.jpeg)
 
 1. **Bintang Bersudut Lima**
 Melambangkan Sila Ketuhanan Yang Maha Esa. Hal ini menekankan
