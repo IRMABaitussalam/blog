@@ -22,7 +22,7 @@ Berikut adalah penjelasan mengenai arti logo IRMA yang terdiri dari beberapa ele
 
 ![Arti Logo IRMA](01.jpeg)
 
-1. **Bintang Bersudut Lima**
+1. **Bintang Bersudut Lima**</br>
 Melambangkan Sila Ketuhanan Yang Maha Esa. Hal ini menekankan
 bahwa IRMA menjunjung tinggi nilai-nilai ketuhanan sebagai
 landasan utama dalam setiap kegiatannya. Sila Ketuhanan yang Maha
@@ -31,14 +31,14 @@ sesuatu yang dilakukan dalam organisasi ini berpijak pada
 keyakinan kepada Tuhan, yang dalam konteks ini adalah sesuai
 dengan ajaran Islam.
 
-2. **Warna Hijau**
+2. **Warna Hijau**</br>
 Berarti keseimbangan, alam, dan simbol kemakmuran dan kesegaran,
 serta merupakan warna suci Islam dan warna yang di sukai oleh
 Nabi Muhammad SAW. Dengan memilih hijau sebagai warna utama, IRMA
 ingin mencerminkan kehidupan yang harmonis dan kesejahteraan bagi
 seluruh umat.
 
-3. **Bintang Sembilan**
+3. **Bintang Sembilan**</br>
 Menjelaskan keberadaan Walisongo yang telah berjuang menyebarkan
 agama Islam di Indonesia, karena itu dalam berdakwah selalu
 meneladani cara-cara dakwah Walisongo dengan menggunakan
@@ -48,7 +48,7 @@ dengan memadukan ajaran agama Islam dengan pendekatan yang
 bersifat inklusif dan akulturatif, sehingga dakwah dapat berjalan
 dengan penuh toleransi dan kebijaksanaan.
 
-4. **Logo Kubah**
+4. **Logo Kubah**</br>
 Simbol menunjukan ikon masjid yang berke-Islaman secara terbuka,
 tenang, sopan toleran memiliki keyakinan besar sebagai Muslim.
 Masjid bukan hanya sebagai tempat ibadah, melainkan juga sebagai
@@ -58,7 +58,7 @@ sebagai seorang Muslim dalam menjalankan kehidupan, sekaligus
 menggambarkan bahwa IRMA berkomitmen untuk menjaga nilai-nilai
 Islam yang universal dengan penuh keyakinan dan kebijaksanaan.
 
-5. **Kitab Al-Quran Yang Terbuka**
+5. **Kitab Al-Quran Yang Terbuka**</br>
 Melambangkan dasar keilmuan Islam yang terbuka bagi siapa saja
 yang ingin mendalaminya, warna kuning pada kitab Al-Quran yakni
 warna yang dapat mengangkat suasana hati seseorang, dan warna
