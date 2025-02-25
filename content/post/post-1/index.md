@@ -1,7 +1,7 @@
 ---
 title: Sejarah IRMA Jawa Barat dan IRMA Baitussalam
 description: Ikatan Remaja Masjid (IRMA) adalah sebuah organisasi keremajaan yang berfokus pada pendidikan karakter.
-date: 2024-08-02T01:05:19+07:00
+date: 2025-02-25T09:20:45+07:00
 image: cover.jpeg
 tags:
     - sejarah
@@ -59,5 +59,6 @@ Berdirinya IRMA Baitussalam di SMAN 22 Garut pada tanggal 14 Februari 2014 yang 
 8. Rahmi Agustin Syafa'at (2021 - 2022)
 9. Perdiyana (2022 - 2023)
 10. Gilang Ramdani (2023 - 2024)
+11. Ridho Anugrah (2024 - 2025)
 
 Pada tanggal 14 Februari 2014, sebenarnya bukan Ikatan Remaja Masjid (IRMA) yang terbentuk, namun ROHIS yang terbentuk di SMAN 22 GARUT. Kepanjangan ROHIS adalah Rohani Islam.
