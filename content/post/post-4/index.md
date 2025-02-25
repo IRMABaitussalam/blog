@@ -1,50 +1,75 @@
 ---
-title: "Kisah Lucu: Racun Mematikan dalam Kue"
-description: Semua orang di kota Aq Syahr tahu kehebatan syekh mereka, Nashrudin. Atas dasar itulah, seluruh warga setempat mengangkatnya sebagai guru di sekolah di mana anak mereka belajar.
-date: 2024-09-15T03:35:22+07:00
-image: cover.jpg
-categories:
-    - Kisah Lucu
+title: Bolehkah Perempuan Haid Membaca Al-Qur'an? Simak Pendapat Para Ulama!
+description: Membaca Al-Qur'an merupakan salah satu amaliyah yang sangat dianjurkan bagi umat Islam, namun bagaimana jika seorang wanita sedang haid?
+date: 2024-09-14T10:30:52+07:00
+image: cover.jpeg
 tags:
-    - alkisah
-    - cerita lucu
-    - nashrudin
-    - kisah
-    - kisah lucu
+    - hukum
+    - al-qur'an
+    - perempuan haid
+    - adab
+    - adab membaca al-qur'an
+    - membaca al-qur'an
 ---
 
-Semua orang di kota Aq Syahr tahu kehebatan syekh mereka, Nashrudin. Atas dasar itulah, seluruh warga setempat mengangkatnya sebagai guru di sekolah di mana anak mereka belajar. Mereka berharap anak-anaknya dapat menyerap ilmu yang diajarkan Nashrudin.
+Membaca Al-Qur'an merupakan salah satu _amaliyah_ yang sangat dianjurkan bagi umat Islam, namun bagaimana jika seorang wanita sedang haid? Banyak ulama yang memiliki beragam pendapat mengenai hal ini. Secara umum, terdapat 3 pendapat yang muncul dan berkembang terkait masalah ini, yaitu: (1) mengharamkannya secara mutlak; (2) membolehkannya secara mutlak; dan (3) membolehkannya dengan beberapa catatan.
 
-Suatu hari, ada seorang siswa baru saja pulang ke rumah. Ayahnya lalu mencoba mengujinya dengan beberapa pertanyaan yang berhubungan dengan pelajaran. Ternyata si anak mampu menjawab dengan tepat dan memuaskan. Tentu saja hal itu membuat sang ayah sangat gembira.
+## 1. Pendapat Ulama yang Mengharamkannya Secara Mutlak
 
-Sang ayah kemudian mengirimkan utusan kepada Nashrudin untuk memberikan hadiah berupa kue yang sangat lezat. Utusan itu pun sampai ke rumah Nashrudin. Saat itu pelajaran sedang berlangung. Di saat yang bersamaan pula, Nashrudin hendak mengakhiri pelajaran karena ia harus pergi melayat jenazah.
+Pendapat ini di kemukakan oleh _jumhur_ ulama dari madzhab Syafi'i, Hanbali, dan Hanafi. Mereka mengatakan bahwa perempuan yang sedang haid dilarang untuk membaca Al-Qur'an. Bahkan berdosa jika ia sengaja melakukannya.
 
-Sebelum hendak pergi, ia berpesan pada murid-muridnya, "Aku akan meletakkan kue ini di atas lemari. Jangan sampai kalian mencicipinya, karena aku curiga, barangkali ada racunnya. Aku khawatir kalian akan mati jika memakannya, sementara akulah yang nantinya akan dimintai pertanggungjawaban atas hal yang terjadi pada diri kalian. Bisa-bisa, aku masuk penjara!"
+Para ulama yang berpendapat demikian berlandaskan pada hadits yang diriwayatkan oleh At-Tirmidzi dan ulama lainnya. Hadits ini menegaskan bahwa baik orang yang sedang junub maupun perempuan yang sedang haid dilarang membaca Al-Qur'an. Rasulullah SAW bersabda:
 
-Setelah yakin bahwa ucapannya mempengaruhi semua murid, Nashrudin pergi meninggalkan sekolah untuk bertakziah.
+<div align="right">
 
-Sementara itu, keponakan Nashrudin tahu bahwa pamannya itu bersandiwara. la kemudian memutuskan untuk mengambil kesempatan saat Nashrudin pergi dengan mengambil kue dari atas lemari. Kemudian, ia panggil semua siswa dan mengajak mereka untuk memakannya.
+لَا يَقْرَأُ الْحَائِضُ وَلَا الْجُنُبُ شَيْئًا مِنَ الْقُرْآنِ (رواه الترمذي، البيهقي)
 
-Tentu saja perbuatan keponakan Nashrudin itu membuat mereka takut.
+</div>
 
-"Bukankah kita telah mendengar ucapan beliau? Bukankah kue ini beracun dan bisa membunuh kita? Bukankah kita akan meninggal bila memakannya?" Tanya para siswa itu ragu-ragu. Tapi keponakan Nashrudin yang cerdas itu berkata, "Guru kalian sebenarnya hanya ingin mengelabui kita. Aku tidak peduli! Aku akan memakannya, dan kalian jangan menyesal bila ternyata aku tidak meninggal!"
+**Artinya:** _"Orang yang junub dan wanita yang haid tidak boleh membaca sedikitpun dari Al-Qur'an."_ (HR. At-Tirmidzi, Al-Baihaqi).
 
-Anak-anak itu kalah argumen. Hati mereka spontan menjadi ragu. "Baiklah, kita makan saja. Tetapi bagaimana alasan kita pada ustadz Nashrudin nanti?" tanya murid-murid itu dengan bimbang.
+Meskipun hadits yang melarang perempuan haid membaca Al-Qur'an awalnya dinilai lemah (_dhaif_) oleh Imam An-Nawawi, status hadits tersebut diperkuat oleh beberapa riwayat lain sehingga dianggap _hasan_. Hal ini ditegaskan oleh para ulama seperti Ibnu Hajar Al-Haitami dan Al-Mundziri, yang melihat adanya dukungan dari berbagai hadits lain yang serupa. Pendapat serupa juga disampaikan oleh Ibnu Jamaah dalam _Takhrijul Ahaditsir Rafi'i_, di mana ia mengungkapkan bahwa hadits ini menjadi lebih kuat setelah diperbandingkan dengan riwayat-riwayat lain yang mendukung. 
 
-"Kalian tentu tahu dan kenal siapa aku!" sang keponakan menjawab dengan jumawa. "Aku telah menyiapkan alasan yang cukup jitu. Sekarang, mari kita makan saja kuenya!" ajaknya lagi.
+Ibnu Hajar Al-Haitami dalam karyanya _Al-Minhajul Qawim_ (hal. 49) dan Abul Abbas Ahmad Ar-Ramli dalam _Hasyiyatur Ramli_ (juz I, hal. 67), juga menguatkan argumen ini, sehingga hadits tersebut tetap kuat untuk dijadikan dasar hukum. Selain itu, para ulama yang melarang perempuan haid membaca Al-Qur'an juga meng-<cite>qiyas</cite>kannya dengan keadaan orang yang sedang junub, yang telah disepakati oleh ulama sebagai keadaan di mana membaca Al-Qur'an dilarang. Hal ini dijelaskan oleh Imam An-Nawawi dalam _Al-Majmu' Syarhul Muhaddzab_ (juz II, hal. 388), yang memperkuat argumen ini dengan berbagai dalil. Hadits Ali bin Abi Thalib menyebutkan bahwa:
 
-Akhirnya, mereka semua sepakat untuk memakan kue setelah yakin bahwa sang keponakan akan bertanggungjawab atas hal itu.
+<div align="right">
 
-Dengan lahap mereka santap kue nan lezat itu tanpa sisa. Mereka puas setelah perutnya kenyang.
+كَانَ النَّبِيُّ ﷺ يَقْرَأُ الْقُرْآنَ عَلَى كُلِّ أَحْوَالِهِ سِوَى الْجَنَابَةِ
 
-Usai menyantap kue, sang keponakan menuju meja Nashrudin. Tiba-tiba tempat tinta milik Nashrudin yang ada di atas meja tersebut ia pecahkan. Tak lama kemudian, Nashrudin kembali dan masuk ke ruang belajar.
+</div>
 
-"Siapa yang pecahkan ini?!!" teriaknya dengan suara keras begitu melihat tempat tintanya pecah. Dengan spontan, murid-murid Nashrudin menunjuk ke arah sang keponakan, sebagaimana janji yang diucapkan sang keponakan sebelumnya.
+**Artinya:** _"Nabi SAW selalu membaca Al-Qur'an dalam segala kondisi dan situasi, kecuali ketika Beliau junub."_
 
-"Kenapa kamu pecahkan tempat tintaku? Hhggg...akanku remukkan tulang-tulangmu!" ujarnya geram.
+Para ulama menyamakan haid dengan junub. Mereka berpendapat haid lebih berat dibandingkan junub. Hal ini disebabkan karena haid biasanya berlangsung lebih lama, sementara junub adalah keadaan yang sementara dan dapat segera disucikan dengan mandi wajib.
 
-Amarah Nashrudin yang meledak-ledak itu telah membuat sang keponakan yang cerdas itu seketika menangis. "Pensil saya patah paman, saya ingin merautnya, tapi tanpa sengaja tempat tinta itu pecah. Apakah paman akan memarahi saya atas apa yang terjadi? Bagaimana saya harus menjawab pertanyaan paman sementara paman pasti akan memukul dan meremukkan tulang saya? Karena itu lebih baik saya memilih mati saja daripada menerima siksa dari paman..."
+## 2. Pendapat Ulama yang Membolehkannya Secara Mutlak
 
-"Tapi..," lanjut keponakan Nashrudin dengan ragu, "Saya pikir, bagaimana mungkin saya mati, sebab saya tidak ingin membuat onar di sekolah. Akhirnya, terlintas di benak saya untuk memakan kue di atas lemari paman dengan harapan saya akan mati syahid dan mendapat belas kasih dari teman-teman, orangtua, saudara, juga ibu. Saya pejamkan mata dan menelan sebagian kue itu sambil menunggu ajal datang. Tapi paman, saya tidak juga mati..."
+Pendapat dari madzhab Zhahiri, yang dipelopori oleh Ibnu Hazm, memberikan pandangan berbeda terkait hukum perempuan haid membaca Al-Qur'an. Ibnu Hazm berpendapat bahwa seorang wanita yang sedang haid diperbolehkan membaca Al-Qur'an secara mutlak, tanpa batasan kondisi atau alasan. Baik dalam keadaan khawatir akan lupa hafalan maupun tidak, perempuan haid tetap boleh membaca Al-Qur'an, baik sambil berbaring, berdiri, duduk, atau bersandar.
 
-Mendengar keterangan panjang lebar keponakannya, Nashrudin nyaris marah lantaran sadar kuenya juga ikutan raib. Tapi, Nashrudin pun tak dapat menyembunyikan kegelian atas ulah keponakannya itu. Amarahnya luruh seketika mendapati kecerdasan dan kemampuan sang keponakan membantah tuduhannya.
+Ibnu Hazm mendasarkan pandangannya pada prinsip bahwa membaca Al-Qur'an adalah perbuatan baik yang tidak seharusnya dilarang bagi siapapun. Menurutnya, tidak ada dalil yang secara tegas melarang perempuan haid melakukan hal tersebut. Ia juga menolak otoritas hadits-hadits yang dijadikan dasar oleh jumhur ulama (mayoritas ulama) untuk melarang membaca Al-Qur'an saat haid, dengan alasan bahwa hadits-hadits tersebut lemah (_dhaif_) dari segi _tsanad_, sehingga tidak dapat dijadikan _hujjah_ (landasan hukum yang kuat).
+
+## 3. Pendapat Ulama yang Membolehkannya dengan Beberapa Catatan
+
+Pendapat ini adalah pendapat madzhab Maliki dan didukung oleh Ibnu Taimiyah. Pendapat ini membolehkan perempuan haid membaca Al-Qur'an jika ada kebutuhan (hajat) yang mendesak. Karenanya, pandangan ini dianggap sebagai jalan tengah antara pendapat yang mengharamkan dan yang membolehkan secara mutlak.
+
+Madzhab Maliki memandang bahwa dalil-dalil yang dijadikan dasar bagi larangan perempuan haid membaca Al-Qur'an tidak memiliki kekuatan yang cukup untuk dijadikan pijakan hukum yang mutlak. Oleh karena itu, mereka memberikan kelonggaran dalam situasi tertentu (jika ada kebutuhan yang mendesak), seperti untuk menjaga hafalan atau untuk tujuan pendidikan, terutama bagi perempuan yang mengajar Al-Qur'an.
+
+Para pendukung pendapat ini juga membedakan antara kondisi junub dan haid. Menurut mereka, haid memiliki durasi yang lebih lama dibandingkan dengan junub, yang bisa disucikan dengan mandi wajib segera. Karena perempuan haid bisa berada dalam kondisi ini selama beberapa hari, maka melarangnya membaca Al-Qur'an secara penuh dianggap tidak proporsional. Oleh sebab itu, diperbolehkan bagi perempuan haid untuk membaca sebagian kecil dari Al-Qur'an selama masa haid, agar ia tidak kehilangan keutamaan interaksi dengan Al-Qur'an selama masa haid tersebut.
+
+Sebagai solusi dalam kasus ini, salah satu pandangan yang dapat diikuti adalah pendapat dari madzhab Maliki. Pandangan ini membolehkan perempuan haid membaca Al-Qur'an, namun hanya selama darah haid masih mengalir. Jika darah haid telah berhenti, maka ia diharuskan mandi besar (mandi junub) sebelum diizinkan membaca Al-Qur'an lagi. Ini karena pada saat darah haid sudah berhenti, tidak ada lagi alasan untuk menunda mandi wajib, dan perempuan tersebut harus bersuci sebelum berinteraksi dengan Al-Qur'an.
+
+Syekh Ahmad Ad-Dardir dalam kitab _As-Syarhus Shaghir_ menjelaskan bahwa membaca Al-Qur'an selama darah haid masih keluar tidak dilarang. Namun, setelah darah berhenti, perempuan tidak boleh membaca Al-Qur'an sampai ia mandi janabat. Ini merupakan pendapat yang dijadikan pegangan dalam madzhab Maliki:
+
+<div align="right">
+
+وَلَا يَحْرُمُ عَلَيْهَا قِرَاءَةُ الْقُرْآنِ إلَّا بَعْدَ انْقِطَاعِهِ وَقَبْلَ غُسْلِهَا، سَوَاءٌ كَانَتْ جُنُبًا حَالَ حَيْضِهَا أَمْ لَا، فَلَا تَقْرَأُ بَعْدَ انْقِطَاعِهِ مُطْلَقًا حَتَّى تَغْتَسِلَ. هَذَا هُوَ الْمُعْتَمَدُ
+
+</div>
+
+**Artinya:** _"Tidak haram bagi perempuan haid membaca Al-Qur'an kecuali setelah terhenti darahnya dan belum mandi. Baik saat haid ia junub atau tidak. Karenanya ia tidak boleh membaca Al-Qur'an setelah darahnya berhenti secara mutlak sampai ia mandi janabat. Ini adalah pendapat mu'tamad atau yang dipedomani dalam madzhab Maliki."_ (Ahmad Ad-Dardir, _As-Syarhus Shaghir_, dalam _Bulghatus Salik li Aqrabil Masalik_, Juz I, hal. 149).
+
+Selain itu, walaupun ada pandangan yang membolehkan perempuan haid membaca Al-Qur'an, penting untuk tetap berhati-hati. Jika memungkinkan, lebih baik menunda membaca Al-Qur'an hingga masa haid selesai. Namun, dalam situasi yang mendesak, seperti ketika menghadapi ujian tahfidz yang tidak bisa ditunda, diperbolehkan membaca Al-Qur'an, tetapi dibatasi sesuai dengan kebutuhan ujian. Ini dilakukan demi menjaga kesakralan Al-Qur'an dan menghormati adab dalam berinteraksi dengan kitab suci.
+
+</br>
+
+_**Penulis:** Rangga Fajar Oktariansyah_

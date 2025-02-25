@@ -1,105 +1,50 @@
 ---
-title: "Sejarah: Munculnya Peringatan Maulid Nabi dan Penyebarannya di Indonesia"
-description: Maulid Nabi merupakan peringatan hari kelahiran Nabi Muhammad SAW, yang dirayakan oleh umat Islam di seluruh dunia.
-date: 2024-09-16T00:01:25+07:00
-image: cover.jpeg
+title: "Kisah Lucu: Racun Mematikan dalam Kue"
+description: Semua orang di kota Aq Syahr tahu kehebatan syekh mereka, Nashrudin. Atas dasar itulah, seluruh warga setempat mengangkatnya sebagai guru di sekolah di mana anak mereka belajar.
+date: 2024-09-15T03:35:22+07:00
+image: cover.jpg
 categories:
-    - Sejarah
+    - Kisah Lucu
 tags:
-    - sejarah
-    - sejarah maulid
-    - maulid
-    - maulid nabi
-    - maulid nabi muhammad
+    - alkisah
+    - cerita lucu
+    - nashrudin
+    - kisah
+    - kisah lucu
 ---
 
-Maulid Nabi merupakan peringatan hari kelahiran Nabi Muhammad SAW,
-yang dirayakan oleh umat Islam di seluruh dunia. Peringatan ini
-menjadi momen istimewa bagi umat Islam di seluruh dunia untuk
-memperingati dan menghormati sosok Nabi Muhammad yang membawa ajaran
-Islam yang penuh kedamaian dan kasih sayang.
+Semua orang di kota Aq Syahr tahu kehebatan syekh mereka, Nashrudin. Atas dasar itulah, seluruh warga setempat mengangkatnya sebagai guru di sekolah di mana anak mereka belajar. Mereka berharap anak-anaknya dapat menyerap ilmu yang diajarkan Nashrudin.
 
-Namun, bagaimana sebenarnya sejarah munculnya peringatan Maulid Nabi
-dan bagaimana perayaan ini bisa sampai ke Nusantara? Berikut
-penjelasannya.
+Suatu hari, ada seorang siswa baru saja pulang ke rumah. Ayahnya lalu mencoba mengujinya dengan beberapa pertanyaan yang berhubungan dengan pelajaran. Ternyata si anak mampu menjawab dengan tepat dan memuaskan. Tentu saja hal itu membuat sang ayah sangat gembira.
 
-## Sejarah Awal Peringatan Maulid Nabi
+Sang ayah kemudian mengirimkan utusan kepada Nashrudin untuk memberikan hadiah berupa kue yang sangat lezat. Utusan itu pun sampai ke rumah Nashrudin. Saat itu pelajaran sedang berlangung. Di saat yang bersamaan pula, Nashrudin hendak mengakhiri pelajaran karena ia harus pergi melayat jenazah.
 
-Dikutip dari buku _Sejarah Maulid Nabi_ oleh Ahmad Sauri, tradisi
-memperingati Maulid Nabi pertama kali dilakukan oleh masyarakat Muslim
-di Arab pada tahun kedua Hijriah. Kemudian, pada masa Dinasti
-Abbasiyah sekitar tahun 786 M, tradisi ini semakin berkembang.
+Sebelum hendak pergi, ia berpesan pada murid-muridnya, "Aku akan meletakkan kue ini di atas lemari. Jangan sampai kalian mencicipinya, karena aku curiga, barangkali ada racunnya. Aku khawatir kalian akan mati jika memakannya, sementara akulah yang nantinya akan dimintai pertanggungjawaban atas hal yang terjadi pada diri kalian. Bisa-bisa, aku masuk penjara!"
 
-Menurut Nuruddin Ali dalam _Wafa'ul Wafa bi Akhbar Darul Mustafa_, ibu
-dari Amirul Mukminin Musa Al-Hadi dan Al-Rasyid, yakni Khaizuran,
-memerintahkan perayaan Maulid Nabi di Masjid Nabawi, Madinah. Kemudian
-meluas ke Makkah dan diadakan di rumah-rumah warga. Khaizuran memiliki
-pengaruh besar dalam penyebaran Maulid Nabi selama kekuasaan tiga
-khalifah Dinasti Abbasiyah. Ia berhasil menyebarkan tradisi ini di
-wilayah Arab, menjadikan Maulid Nabi sebagai momen untuk terus
-mengingat ajaran dan kepemimpinan Rasulullah SAW.
+Setelah yakin bahwa ucapannya mempengaruhi semua murid, Nashrudin pergi meninggalkan sekolah untuk bertakziah.
 
-## Asal Usul Peringatan Maulid Nabi
+Sementara itu, keponakan Nashrudin tahu bahwa pamannya itu bersandiwara. la kemudian memutuskan untuk mengambil kesempatan saat Nashrudin pergi dengan mengambil kue dari atas lemari. Kemudian, ia panggil semua siswa dan mengajak mereka untuk memakannya.
 
-Ada beberapa teori yang menjelaskan asal usul peringatan Maulid Nabi.
-Teori pertama menyebutkan peringatan Maulid Nabi pertama kali muncul
-di Kairo, Mesir pada abad ke-10 Masehi di masa Dinasti Fatimiyah,
-sebuah dinasti yang menganut ajaran Syi'ah. Dinasti Fatimiyah
-mengadakan peringatan Maulid sebagai salah satu cara untuk
-memperingati tokoh-tokoh penting dalam Islam, terutama kelahiran Nabi
-Muhammad SAW. Tradisi ini kemudian diadopsi oleh umat Islam di wilayah
-lainnya, termasuk wilayah yang menganut ajaran Sunni.
+Tentu saja perbuatan keponakan Nashrudin itu membuat mereka takut.
 
-Teori lain menyatakan bahwa Maulid Nabi dirayakan oleh Gubernur Irbil
-di Irak, Sultan Abu Said Muzaffar Al-Din Gökböri, yang mengundang para
-ulama, ahli tasawuf, dan masyarakat luas untuk merayakan kelahiran
-Nabi Muhammad. Peringatan ini dilakukan dengan memberikan sedekah
-kepada fakir miskin serta menyediakan jamuan bagi masyarakat. Selain
-itu, Sultan Gökböri mengadakan perayaan Maulid dengan pembacaan puji-
-pujian dan syair tentang Nabi Muhammad (Barzanji). Tradisi ini
-kemudian menyebar luas di berbagai wilayah dunia Islam, termasuk ke
-wilayah Timur Tengah dan Afrika Utara.
+"Bukankah kita telah mendengar ucapan beliau? Bukankah kue ini beracun dan bisa membunuh kita? Bukankah kita akan meninggal bila memakannya?" Tanya para siswa itu ragu-ragu. Tapi keponakan Nashrudin yang cerdas itu berkata, "Guru kalian sebenarnya hanya ingin mengelabui kita. Aku tidak peduli! Aku akan memakannya, dan kalian jangan menyesal bila ternyata aku tidak meninggal!"
 
-Ada juga yang berpendapat bahwa Sultan Shalahuddin Al-Ayyubi atau
-Muhammad Al-Fatih adalah salah satu tokoh yang pertama kali mengadakan
-perayaan Maulid Nabi secara besar-besaran. Peringatan ini bertujuan
-meningkatkan semangat jihad umat Islam dalam menghadapi Perang Salib
-dan merebut kembali Yerussalem dari kaum Salibis Eropa.
+Anak-anak itu kalah argumen. Hati mereka spontan menjadi ragu. "Baiklah, kita makan saja. Tetapi bagaimana alasan kita pada ustadz Nashrudin nanti?" tanya murid-murid itu dengan bimbang.
 
-## Masuknya Peringatan Maulid Nabi ke Indonesia
+"Kalian tentu tahu dan kenal siapa aku!" sang keponakan menjawab dengan jumawa. "Aku telah menyiapkan alasan yang cukup jitu. Sekarang, mari kita makan saja kuenya!" ajaknya lagi.
 
-Peringatan Maulid Nabi masuk ke Indonesia tak luput dari penyebaran
-Islam. Ada salah satu teori yang menyatakan bahwa Islam masuk ke
-Indonesia di bawa oleh para pedagang asal Persia, Irak. Salah satu
-alasannya karena perayaan Maulid Nabi di Indonesia hampir sama dengan
-perayaan Maulid Nabi di Irak.
+Akhirnya, mereka semua sepakat untuk memakan kue setelah yakin bahwa sang keponakan akan bertanggungjawab atas hal itu.
 
-Pada masa Kesultanan Demak, yang berdiri pada abad ke-15, Maulid Nabi
-menjadi salah satu acara keagamaan besar. Sultan Demak dan para ulama
-menjadikan Maulid Nabi sebagai bentuk penghormatan kepada Nabi
-Muhammad SAW, serta untuk memperkuat dakwah Islam di kalangan
-masyarakat Jawa . Peringatan Maulid Nabi di Indonesia menjadi semakin
-populer seiring dengan perkembangan Islam di Nusantara.
+Dengan lahap mereka santap kue nan lezat itu tanpa sisa. Mereka puas setelah perutnya kenyang.
 
-## Kontroversi dan Perdebatan tentang Perayaan Maulid Nabi
+Usai menyantap kue, sang keponakan menuju meja Nashrudin. Tiba-tiba tempat tinta milik Nashrudin yang ada di atas meja tersebut ia pecahkan. Tak lama kemudian, Nashrudin kembali dan masuk ke ruang belajar.
 
-Meskipun peringatan Maulid Nabi sangat luas diterima di Indonesia dan
-berbagai negara Muslim lainnya, tradisi ini tidak luput dari
-perdebatan. Beberapa ulama berpendapat bahwa Maulid Nabi adalah
-praktik yang tidak diajarkan langsung oleh Nabi Muhammad SAW atau para
-sahabatnya, sehingga ini dianggap sebagai bid'ah (sesuatu yang baru).
-Namun, banyak pula ulama yang mendukungnya selama perayaan tersebut
-dilakukan dengan niat yang baik dan mengandung unsur penghormatan
-serta kecintaan kepada Nabi Muhammad SAW.
+"Siapa yang pecahkan ini?!!" teriaknya dengan suara keras begitu melihat tempat tintanya pecah. Dengan spontan, murid-murid Nashrudin menunjuk ke arah sang keponakan, sebagaimana janji yang diucapkan sang keponakan sebelumnya.
 
-Imam Al-Hafidz Ibn Hajar Al-Asqalani, seorang ulama besar dalam bidang
-hadits, pernah menyebutkan bahwa memperingati Maulid Nabi merupakan
-perbuatan baik selama diisi dengan kegiatan yang bermanfaat, seperti
-membaca kisah hidup Nabi, membaca puji-pujian kepada Nabi,
-bershalawat, dan memperdalam ilmu agama. Pandangan inilah yang banyak
-diikuti oleh ulama-ulama di Indonesia dan dunia, sehingga peringatan
-Maulid Nabi menjadi bagian tak terpisahkan dari tradisi Islam.
+"Kenapa kamu pecahkan tempat tintaku? Hhggg...akanku remukkan tulang-tulangmu!" ujarnya geram.
 
-</br>
+Amarah Nashrudin yang meledak-ledak itu telah membuat sang keponakan yang cerdas itu seketika menangis. "Pensil saya patah paman, saya ingin merautnya, tapi tanpa sengaja tempat tinta itu pecah. Apakah paman akan memarahi saya atas apa yang terjadi? Bagaimana saya harus menjawab pertanyaan paman sementara paman pasti akan memukul dan meremukkan tulang saya? Karena itu lebih baik saya memilih mati saja daripada menerima siksa dari paman..."
 
-_**Penulis:** Rangga Fajar Oktariansyah_
+"Tapi..," lanjut keponakan Nashrudin dengan ragu, "Saya pikir, bagaimana mungkin saya mati, sebab saya tidak ingin membuat onar di sekolah. Akhirnya, terlintas di benak saya untuk memakan kue di atas lemari paman dengan harapan saya akan mati syahid dan mendapat belas kasih dari teman-teman, orangtua, saudara, juga ibu. Saya pejamkan mata dan menelan sebagian kue itu sambil menunggu ajal datang. Tapi paman, saya tidak juga mati..."
+
+Mendengar keterangan panjang lebar keponakannya, Nashrudin nyaris marah lantaran sadar kuenya juga ikutan raib. Tapi, Nashrudin pun tak dapat menyembunyikan kegelian atas ulah keponakannya itu. Amarahnya luruh seketika mendapati kecerdasan dan kemampuan sang keponakan membantah tuduhannya.
