@@ -101,7 +101,7 @@ keberkahan bagi diri sendiri. Rasulullah bersabda:
 
 <div align="right">
 مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ، وَمَا زَادَ اللّٰهُ عَبْدًا بِعَفْوٍ، إِلَّا عِزًّا، وَمَا تَوَاضَعَ أَحَدٌ لِلّٰهِ إِلَّا رَفَعَهُ اللّٰهُ (رواه مسلم)
- </div>
+</div>
 
 Artinya: "Sedekah itu tidak akan mengurangi harta. Tidak ada orang
 yang memberi maaf kepada orang lain, melainkan Allah akan menambah
@@ -118,7 +118,7 @@ berselisih. Rasulullah selalu menekankan pentingnya _ukhuwah_
 
 Beliau bersabda:
 
-</div align="right">
+<div align="right">
 ﻻَ ﻳُﺆْﻣِﻦُ ﺃَﺣَﺪُﻛُﻢْ ﺣَﺘَّﻰ ﻳُﺤِﺐَّ ِﻷَﺧِﻴْﻪِ ﻣَﺎ ﻳُﺤِﺐُّ ﻟِﻨَﻔْﺴِﻪِ (رواه البخاري و مسلم)
 </div>
 
