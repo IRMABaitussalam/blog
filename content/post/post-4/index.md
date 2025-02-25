@@ -2,6 +2,7 @@
 title: "Kisah Lucu: Racun Mematikan dalam Kue"
 description: Semua orang di kota Aq Syahr tahu kehebatan syekh mereka, Nashrudin. Atas dasar itulah, seluruh warga setempat mengangkatnya sebagai guru di sekolah di mana anak mereka belajar.
 date: 2024-09-15T03:35:22+07:00
+image: cover.jpg
 categories:
     - Kisah Lucu
 tags:
