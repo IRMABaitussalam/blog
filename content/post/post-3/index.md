@@ -33,9 +33,9 @@ Dalam Al-Qur’an, Allah SWT berfirman:
 قُلْ اِنْ كُنْتُمْ تُحِبُّوْنَ اللّٰهَ فَا تَّبِعُوْنِيْ يُحْبِبْكُمُ اللّٰهُ وَيَغْفِرْ لَـكُمْ ذُنُوْبَكُمْ ۗ وَا للّٰهُ غَفُوْرٌ رَّحِيْمٌ (٣١)
 </div>
 
-Artinya: "Katakanlah (Muhammad), "Jika kamu mencintai Allah, ikutilah
+**Artinya:** _"Katakanlah (Muhammad), "Jika kamu mencintai Allah, ikutilah
 aku, niscaya Allah mencintaimu dan mengampuni dosa-dosamu." Allah Maha
-Pengampun, Maha Penyayang." (QS. Ali 'Imran: 31)
+Pengampun, Maha Penyayang."_ (QS. Ali 'Imran: 31)
 
 Ayat ini menegaskan bahwa bukti cinta kepada Nabi adalah dengan
 mengikuti ajaran dan sunnahnya.
@@ -49,9 +49,9 @@ Islam untuk bershalawat kepada Rasulullah dalam firman-Nya:
 اِنَّ اللّٰهَ وَمَلٰٓئِكَتَهٗ يُصَلُّوْنَ عَلَى النَّبِيِّ ۗ يٰۤـاَيُّهَا الَّذِيْنَ اٰمَنُوْا صَلُّوْا عَلَيْهِ وَسَلِّمُوْا تَسْلِيْمًا (٥٦)
 </div>
 
-Artinya: "Sesungguhnya Allah dan para malaikat-Nya bershalawat untuk
+**Artinya:** _"Sesungguhnya Allah dan para malaikat-Nya bershalawat untuk
 Nabi. Wahai orang-orang yang beriman! Bershalawatlah kamu untuk Nabi
-dan ucapkanlah salam dengan penuh penghormatan kepadanya." (QS. Al-Ahzab: 56)
+dan ucapkanlah salam dengan penuh penghormatan kepadanya."_ (QS. Al-Ahzab: 56)
 
 Membaca shalawat tidak hanya sebagai bentuk penghormatan kepada Nabi,
 tetapi juga memiliki banyak keutamaan, seperti dihapuskan dosa-dosa
@@ -86,8 +86,8 @@ mendekatkan diri kepada Allah dan Rasul-Nya. Rasulullah bersabda:
 وَمَنْ سَلَكَ طَرِيْقًا يَلْتَمِسُ فِيْهِ عِلْمًا سَهَّلَ اللّٰهُ لَهُ بِهٖ طَرِيْقًا إِلَى الْجَنَّةِ (رواه مسلم)
 </div>
 
-Artinya: "Barang siapa yang menempuh jalan untuk mencari ilmu, maka
-Allah akan mudahkan baginya jalan menuju surga." (HR. Muslim)
+**Artinya:** _"Barang siapa yang menempuh jalan untuk mencari ilmu, maka
+Allah akan mudahkan baginya jalan menuju surga."_ (HR. Muslim)
 
 ## 5. Berbuat Kebaikan dan Bersedekah
 
@@ -103,10 +103,10 @@ keberkahan bagi diri sendiri. Rasulullah bersabda:
 مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ، وَمَا زَادَ اللّٰهُ عَبْدًا بِعَفْوٍ، إِلَّا عِزًّا، وَمَا تَوَاضَعَ أَحَدٌ لِلّٰهِ إِلَّا رَفَعَهُ اللّٰهُ (رواه مسلم)
 </div>
 
-Artinya: "Sedekah itu tidak akan mengurangi harta. Tidak ada orang
+**Artinya:** _"Sedekah itu tidak akan mengurangi harta. Tidak ada orang
 yang memberi maaf kepada orang lain, melainkan Allah akan menambah
 kemuliaannya. Dan tidak ada orang yang merendahkan diri karena Allah,
-melainkan Allah akan mengangkat derajatnya. (HR. Muslim)
+melainkan Allah akan mengangkat derajatnya."_ (HR. Muslim)
 
 ## 6. Menjaga Ukhuwah Islamiyah
 
@@ -122,8 +122,8 @@ Beliau bersabda:
 ﻻَ ﻳُﺆْﻣِﻦُ ﺃَﺣَﺪُﻛُﻢْ ﺣَﺘَّﻰ ﻳُﺤِﺐَّ ِﻷَﺧِﻴْﻪِ ﻣَﺎ ﻳُﺤِﺐُّ ﻟِﻨَﻔْﺴِﻪِ (رواه البخاري و مسلم)
 </div>
 
-Artinya: "Tidak sempurna iman seseorang hingga ia mencintai saudaranya
-seperti ia mencintai dirinya sendiri." (HR. Bukhari dan Muslim)  
+**Artinya:** _"Tidak sempurna iman seseorang hingga ia mencintai saudaranya
+seperti ia mencintai dirinya sendiri."_ (HR. Bukhari dan Muslim)
 
 ## 7. Mengamalkan Akhlak Rasulullah dalam Kehidupan Sehari-hari
 
