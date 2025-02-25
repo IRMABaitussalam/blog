@@ -28,7 +28,7 @@ hari sambil membawa lampu minyak?
 "Baginda Raja pasti malu punya staf ahli mendadak gila,"
 celetuk warga lainnya.
 
-Namun, Abu Nawas tak peduli. Ia tetap melakukan aktivitasnya tetsebut.
+Namun, Abu Nawas tak peduli. Ia tetap melakukan aktivitasnya tersebut.
 Keesokan harinya, ia kembali keluar rumah lebih pagi dari biasanya,
 sekali lagi dengan membawa lampu minyak. Tanpa mengeluarkan sepatah
 kata pun, ia melanjutkan pencariannya dengan cara yang sama, berjalan
@@ -89,7 +89,7 @@ tanya Abu Nawas lagi.
 
 "Jika mereka munafik dan sesat, apa konsekuensinya?"
 
-"Hai Abu Nuwas, kamu gila ya? Orang munafik pasti masuk
+"Hai Abu Nawas, kamu gila ya? Orang munafik pasti masuk
 neraka! Dasar munafik, kamu!"
 
 "Baik, jika saya munafik, sesat, dan masuk neraka, di mana neraka yang
