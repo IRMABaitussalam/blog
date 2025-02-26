@@ -67,7 +67,7 @@ jobs:
           sed -i 's@content="Halaman"@content="Halaman - Blog IRMA Baitussalam"@g' ./public/page/index.html
           sed -i 's@<title>Postingan</title>@<title>Postingan - Blog IRMA Baitussalam</title>@g' ./public/post/index.html
           sed -i 's@content="Postingan"@content="Postingan - Blog IRMA Baitussalam"@g' ./public/post/index.html
-          sed -i 's@<title>Postingan</title>@<title>Postingan - Blog IRMA Baitussalam</title>@g' ./public/tags/post/*/index.html
+          sed -i 's@<title>Postingan</title>@<title>Postingan - Blog IRMA Baitussalam</title>@g' ./public/post/page/*/index.html
           sed -i 's@content="Postingan"@content="Postingan - Blog IRMA Baitussalam"@g' ./public/post/page/*/index.html
 
           # Category
