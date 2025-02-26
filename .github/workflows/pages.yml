@@ -56,17 +56,19 @@ jobs:
           sed -i 's@<title>Arsip</title>@<title>Arsip - Blog IRMA Baitussalam</title>@g' ./public/arsip/index.html
           sed -i 's@content="Arsip"@content="Arsip - Blog IRMA Baitussalam"@g' ./public/arsip/index.html
           sed -i 's@<title>Cari</title>@<title>Cari - Blog IRMA Baitussalam</title>@g' ./public/cari/index.html
-          sed -i 's@content="Cari"@content="Cari - Blog IRMABaitussalam"@g' ./public/cari/index.html
+          sed -i 's@content="Cari"@content="Cari - Blog IRMA Baitussalam"@g' ./public/cari/index.html
           sed -i 's@<title>Tag</title>@<title>Tag - Blog IRMA Baitussalam</title>@g' ./public/tags/index.html
-          sed -i 's@content="Tag"@content="Tag - Blog IRMABaitussalam"@g' ./public/tags/index.html
+          sed -i 's@content="Tag"@content="Tag - Blog IRMA Baitussalam"@g' ./public/tags/index.html
           sed -i 's@<title>Tag</title>@<title>Tag - Blog IRMA Baitussalam</title>@g' ./public/tags/page/*/index.html
-          sed -i 's@content="Tag"@content="Tag - Blog IRMABaitussalam"@g' ./public/tags/page/*/index.html
+          sed -i 's@content="Tag"@content="Tag - Blog IRMA Baitussalam"@g' ./public/tags/page/*/index.html
           sed -i 's@<title>Kategori</title>@<title>Kategori - Blog IRMA Baitussalam</title>@g' ./public/categories/index.html
-          sed -i 's@content="Kategori"@content="Kategori - Blog IRMABaitussalam"@g' ./public/categories/index.html
+          sed -i 's@content="Kategori"@content="Kategori - Blog IRMA Baitussalam"@g' ./public/categories/index.html
           sed -i 's@<title>Halaman</title>@<title>Halaman - Blog IRMA Baitussalam</title>@g' ./public/page/index.html
-          sed -i 's@content="Halaman"@content="Halaman - Blog IRMABaitussalam"@g' ./public/page/index.html
+          sed -i 's@content="Halaman"@content="Halaman - Blog IRMA Baitussalam"@g' ./public/page/index.html
           sed -i 's@<title>Postingan</title>@<title>Postingan - Blog IRMA Baitussalam</title>@g' ./public/post/index.html
-          sed -i 's@content="Postingan"@content="Postingan - Blog IRMABaitussalam"@g' ./public/post/index.html
+          sed -i 's@content="Postingan"@content="Postingan - Blog IRMA Baitussalam"@g' ./public/post/index.html
+          sed -i 's@<title>Postingan</title>@<title>Postingan - Blog IRMA Baitussalam</title>@g' ./public/tags/post/*/index.html
+          sed -i 's@content="Postingan"@content="Postingan - Blog IRMA Baitussalam"@g' ./public/post/page/*/index.html
 
           # Category
           folder=(`ls ./public/kategori`)
