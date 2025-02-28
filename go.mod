@@ -1,4 +1,4 @@
-module github.com/f-lambda-z/blog
+module github.com/IRMABaitussalam/blog
 
 go 1.17
 
