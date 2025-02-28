@@ -1,43 +1,62 @@
 ---
-title: "Ramadhan Plus: Fadhilah Shalat Tarawih Malam ke-1"
-description: Bulan Ramadhan adalah bulan penuh berkah di mana umat Islam dianjurkan untuk memperbanyak ibadah. Salah satu ibadah sunnah yang istimewa di bulan ini adalah shalat tarawih.
+title: "Ramadhan Plus: Fadhilah Shalat Tarawih pada Malam ke-1 menurut Kitab Durratun Nasihin"
+description: Bulan Ramadhan adalah waktu istimewa untuk mendekatkan diri kepada Allah melalui berbagai ibadah. Salah satu ibadah yang sangat dianjurkan adalah shalat tarawih, yang dikerjakan setiap malam selama sebulan penuh.
 date: 2025-02-28T14:48:15+07:00
+categories:
+    - Ramadhan Plus
 tags:
     - fadhilah shalat tarawih
-    - malam pertama
     - bulan ramadhan
     - keutamaan shalat tarawih
     - shalat tarawih
+    - kitab durratun nasihin
 ---
 
-Bulan Ramadhan adalah bulan penuh berkah di mana umat Islam dianjurkan untuk memperbanyak ibadah. Salah satu ibadah sunnah yang istimewa di bulan ini adalah shalat tarawih. Di antara keutamaan shalat tarawih, malam pertama memiliki keistimewaan khusus sebagai momentum awal untuk memulai amal ibadah selama sebulan penuh dengan hati yang bersih dan semangat baru.
+Bulan Ramadhan adalah waktu istimewa untuk mendekatkan diri kepada
+Allah melalui berbagai ibadah. Salah satu ibadah yang sangat
+dianjurkan adalah shalat tarawih, yang dikerjakan setiap malam selama
+sebulan penuh. Di antara malam-malam tarawih tersebut, malam pertama
+memiliki keutamaan yang luar biasa sebagai momentum untuk memulai
+ibadah puasa Ramadhan dengan hati yang bersih.
 
-## Keutamaan Malam Pertama
+## Fadhilah Malam Pertama
 
-Banyak ulama-ulama dan kitab-kitab klasik yang menyebutkan bahwa pada malam pertama shalat tarawih, dosa-dosa manusia yang telah menumpuk selama ini “keluar” (terhapus bersih) dari diri seorang mukmin, laksana ketika seorang bayi baru lahir. Seperti yang termaktub dalam kitab _Durratun Nasihin_:
-
-<div align="right">
-يَخْرُجُ الْمُؤْمِنُ مِنْ ذَنْبِهِ فِيْ أَوَّلِ لَيْلَةٍ كَيَوْمِ وُلِدَتْهُ أُمُّهُ
-</div>
-
-**Artinya:** _"Pada malam pertama, dosa orang mukmin (yang melaksanakan tarawih) akan keluar seperti ketika ibunya melahirkan dia ke dunia."_
-
-Dalil ini mengandung makna bahwa dengan mengawali Ramadhan melalui shalat tarawih, seorang mukmin diberi kesempatan untuk memulai lembaran baru, terbebas dari dosa-dosa masa lalu. Dengan keikhlasan dan iman yang teguh, shalat tarawih di malam pertama menjadi sarana untuk meraih ampunan dan mendekatkan diri kepada Allah SWT.
-
-## Makna dan Hikmah di Balik Keutamaan Malam Pertama
-1. **Awal Perubahan**<br>
-Malam pertama Ramadhan sering kali diiringi dengan semangat yang tinggi. Hati masih segar, dan harapan untuk mendapatkan rahmat serta ampunan Allah sangat besar. Dengan menyucikan diri melalui shalat tarawih, umat Islam memulai Ramadhan dengan tekad yang baru untuk meningkatkan kualitas ibadah.
-2. **Kesempatan Mendapatkan Ampunan**<br>
-Seperti yang dijelaskan di atas, amal ibadah di malam pertama diyakini dapat menghapus dosa-dosa yang telah lalu, bersih dari dosa sebersih bayi yang baru saja lahir. Ini merupakan motivasi untuk mengerjakan shalat tarawih dengan lebih khusyuk, karena setiap rakaat yang dikerjakan dengan keimanan dan keikhlasan pasti mendatangkan pahala yang besar.
-3. **Membangun Kebiasaan Baik**<br>
-Dengan memulai Ramadhan dengan ibadah shalat tarawih, seseorang diingatkan akan pentingnya disiplin dan konsisten dalam beribadah. Kebiasaan positif yang dibangun di malam pertama dapat menyebar ke ibadah-ibadah lain sepanjang bulan Ramadhan.
-
-Selain dalil khusus tentang malam pertama, ada pula hadits umum yang menyebutkan keutamaan shalat malam di bulan Ramadhan. Rasulullah SAW bersabda:
+Menurut kitab _Durratun Nasihin_, terdapat penjelasan bahwa pada malam                                                pertama, dosa-dosa seorang mukmin yang melaksanakan shalat tarawih
+akan dihapuskan seolah-olah ia baru lahir dari kandungan ibunya. Bunyi
+keterangan tersebut adalah:
 
 <div align="right">
-مَنْ صَامَ رَمَضَانَ إِيْمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ (رواه البخاري و مسلم)
+يَخْرُجُ الْمُؤْمِنُ مِنْ ذَنْبِهِ فِى اَوَّلِ لَيْلَةٍ كَيَوْمِ وَلَدَتْهُ اُمُّهُ
 </div>
 
-**Artinya:** _"Barangsiapa yang shalat malam di bulan Ramadhan dengan iman dan mengharap pahala dari Allah, maka dosa-dosanya yang telah lalu akan diampuni."_ (HR. Bukhari dan Muslim)
+**Artinya:** _"Pada malam pertama, dosa orang mukmin (yang melaksanakan tarawih)
+akan keluar seperti ketika ibunya melahirkan ia ke dunia."_
 
-Hadits ini menegaskan bahwa shalat tarawih bukan hanya sebagai bentuk ibadah tambahan, tetapi juga sebagai sarana untuk mendapatkan pengampunan dan rahmat dari Allah SWT, terutama bila dikerjakan dengan penuh keikhlasan.
+Keterangan ini mengandung pesan bahwa dengan melaksanakan shalat
+tarawih secara ikhlas di malam pertama, seorang mukmin mendapatkan
+kesempatan untuk memulai ibadah puasa Ramadhan dengan keadaan suci.
+Hal tersebut merupakan bentuk rahmat dan kasih sayang Allah, yang
+mengampuni dosa-dosa hamba-Nya sebagai bentuk permulaan untuk
+meningkatkan keimanan.
+
+## Motivasi untuk Memulai Ibadah
+
+Keutamaan malam pertama ini seharusnya menjadi pendorong bagi setiap
+umat Islam untuk memanfaatkan awal Ramadhan sebaik mungkin. Dengan
+terhapusnya dosa-dosa yang telah lalu, malam pertama membuka pintu
+harapan dan semangat baru untuk terus memperbaiki diri. Tidak hanya
+membersihkan hati, ibadah tarawih juga menjadi sarana untuk
+meningkatkan kualitas keimanan dan ketaatan kepada Allah SWT.
+
+Sebagai tambahan, beberapa ulama menekankan bahwa yang terpenting
+dalam melaksanakan shalat tarawih adalah keikhlasan dan konsistensi.
+Tak perlu terlalu khawatir mengenai jumlah raka'at, karena niat yang
+tulus untuk mendapatkan ridha Allah adalah kunci utama dalam setiap
+ibadah. Keutamaan malam pertama merupakan motivasi untuk menapaki sisa
+bulan Ramadhan dengan semangat yang tinggi.
+
+Dengan memahami fadhilah ini, diharapkan setiap mukmin semakin
+termotivasi untuk mendirikan shalat tarawih dengan hati yang bersih
+dan penuh keikhlasan. Semoga melalui ibadah ini, kita mendapatkan
+keberkahan serta ampunan dari Allah SWT, dan Ramadan menjadi momentum
+perubahan positif dalam hidup kita.
