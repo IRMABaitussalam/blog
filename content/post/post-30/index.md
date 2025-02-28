@@ -58,5 +58,5 @@ bulan Ramadhan dengan semangat yang tinggi.
 Dengan memahami fadhilah ini, diharapkan setiap mukmin semakin
 termotivasi untuk mendirikan shalat tarawih dengan hati yang bersih
 dan penuh keikhlasan. Semoga melalui ibadah ini, kita mendapatkan
-keberkahan serta ampunan dari Allah SWT, dan Ramadan menjadi momentum
+keberkahan serta ampunan dari Allah SWT, dan Ramadhan menjadi momentum
 perubahan positif dalam hidup kita.
