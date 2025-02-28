@@ -1,3 +1,9 @@
 /*
     You can add your own custom styles here.
 */
+.article-subtitle {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
