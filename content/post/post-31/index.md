@@ -2,6 +2,7 @@
 title: "Ramadhan Plus: Fadhilah Shalat Tarawih pada Malam ke-2 menurut Kitab Durratun Nasihin"
 description: Bulan Ramadhan adalah waktu yang istimewa untuk memperbanyak ibadah dan mendekatkan diri kepada Allah. Shalat tarawih, ibadah yang dikerjakan setiap malam selama bulan Ramadhan, merupakan salah satu amalan sunnah yang sangat dianjurkan.
 date: 2025-03-01T09:48:15+07:00
+image: cover.jpg
 categories:
     - Ramadhan Plus
 tags:
