@@ -22,7 +22,8 @@ ibadah puasa Ramadhan dengan hati yang bersih.
 
 ## Fadhilah Malam Pertama
 
-Menurut kitab _Durratun Nasihin_, terdapat penjelasan bahwa pada malam                                                pertama, dosa-dosa seorang mukmin yang melaksanakan shalat tarawih
+Menurut kitab _Durratun Nasihin_, terdapat penjelasan bahwa pada malam
+pertama, dosa-dosa seorang mukmin yang melaksanakan shalat tarawih
 akan dihapuskan seolah-olah ia baru lahir dari kandungan ibunya. Bunyi
 keterangan tersebut adalah:
 
