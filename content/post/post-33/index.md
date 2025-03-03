@@ -43,7 +43,7 @@ nilai ibadah tarawih di sisi Allah. Ibadah ini tidak hanya
 membersihkan hati, tetapi juga membuka pintu keberkahan yang melimpah.
 2. Membaca kitab Taurat, Injil, Zabur, dan Al-Qur’an tentu merupakan kegiatan
 yang penuh hikmah. Dengan mendapatkan pahala serupa, kita
-diingatkan untuk terus menimba ilmu agama dan mendalami ajaran Allah.
+diingatkan untuk terus menimba dan mendalami ilmu agama.
 3. Mengetahui bahwa setiap malam memiliki keutamaan yang berbeda,
 khususnya malam keempat yang menawarkan pahala besar, memberikan
 dorongan untuk tidak berhenti beribadah. Setiap raka'at tarawih membawa
