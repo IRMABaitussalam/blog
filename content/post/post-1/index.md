@@ -1,7 +1,7 @@
 ---
 title: Sejarah IRMA Jawa Barat dan IRMA Baitussalam
 description: Ikatan Remaja Masjid (IRMA) adalah sebuah organisasi keremajaan yang berfokus pada pendidikan karakter.
-date: 2025-02-25T09:20:45+07:00
+date: 2025-07-14T09:45:45+07:00
 image: cover.jpeg
 tags:
     - sejarah
@@ -25,6 +25,7 @@ Ikatan Remaja Masjid (IRMA) adalah sebuah organisasi keremajaan yang berfokus pa
 4. Aditiya Gustiana Saputra, dari SMA Kartika XIX 3 Bandung.
 5. Saepudin, dari SMAN 1 Jalancagak.
 6. Rasya Restu Mahesya, dari SMAN Situraja.
+7. Rd. Muhammad Afarel Annawar, dari SMAN 1 Sumedang.
 
 ## Visi, Misi, dan Tujuan IRMA
 ### 1. Visi
